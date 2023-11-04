@@ -1,18 +1,19 @@
-## Getting Started
+## Sistema de simulação de financiamentos imobiliários
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+O sistema será desenvolvido para simular financiamentos de diferentes tipos de imóveis, incluindo casas, terrenos, apartamentos e permitir que os usuários calculem as parcelas de financiamento com base em na duração do financiamento, o valor do imóvel e a taxa de juros anual. 
 
-## Folder Structure
+O objetivo do projeto é aplicar os conceitos de Programação Orientada a Objetos.
 
-The workspace contains two folders by default, where:
+Conceitos aplicados:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+* Classes
+* Objetos
+* Métodos
+* Atributos
+* Polimorfismo
+* Heranças
+* Classes abstratas
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+----- 
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+> Projeto apresentado para a disciplina de Fundamentos de Programação Orientada a Objetos do curso de BigData e Inteligência Analítica da PUCPR
